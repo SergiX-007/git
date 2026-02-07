@@ -1,0 +1,14 @@
+body {
+    background-color: blueviolet;
+    justify-content: center;
+}
+h1 {
+    font-size: 140%;
+    color: rgb(255, 255, 255);
+    font-family: 'Courier New', Courier, monospace;
+    justify-items: center;
+    justify-self: center;
+    text-align: center;
+    display: flex;
+    padding-top: 10%;
+}
